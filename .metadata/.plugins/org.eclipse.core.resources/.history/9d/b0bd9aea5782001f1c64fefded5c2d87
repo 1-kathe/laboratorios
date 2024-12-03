@@ -1,0 +1,7 @@
+package Desafio3;
+
+public class Author {
+	private String mane;
+    List<book> books;
+    
+}

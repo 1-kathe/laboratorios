@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Anaka\OneDrive\Desktop\prueba de GitHub\laboratorios\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+724329989.index
+3610274521.index
+3849243248.index
